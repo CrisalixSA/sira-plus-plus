@@ -22,7 +22,7 @@ SIRA++ demonstrates state-of-the-art performance in few-shot and in-the-wild 3D 
 
 <p align="center">
   <video controls>
-    <source src="assets/videos/results.webm" type="video/webm">
+    <source src="assets/videos/results.webm" type="video/webm" width="700">
   </video>
 </p>
 
