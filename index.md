@@ -21,7 +21,7 @@ This work introduces a novel approach designed for high-fidelity full 3D head re
 SIRA++ demonstrates state-of-the-art performance in few-shot and in-the-wild 3D head reconstruction tasks. Experimental evaluation on the expanded H3DS dataset (60 high-resolution full-head scans) and the 3DFAW dataset highlights the robustness of the method in scenarios ranging from single-view to multi-view setups. Quantitatively, SIRA++ outperforms previous methods like H3D-Net and NeuS2 across all view configurations, with notable improvements in surface reconstruction accuracy and computational efficiency. It achieves significant reductions in reconstruction error, particularly in challenging one-shot regimes, while capturing fine geometric details, including facial features, hair, and upper body clothing. Qualitative results further demonstrate SIRA++'s ability to retain individual identity and high-frequency anatomical details, even in the most challenging single-view scenarios. A user study confirms superior visual fidelity compared to state-of-the-art techniques, with participants consistently rating SIRA++ as the most realistic and detailed reconstructions.
 
 <p align="center">
-  <video controls>
+  <video controls width="800">
     <source src="assets/videos/results.webm" type="video/webm">
   </video>
 </p>
